@@ -15,3 +15,8 @@ from images and then retrieve related images. Designed a web interface using HTM
 * Deep Feature extraction
 * Flask
 
+## 3. Movie Recommendation System
+Collaborative filtering is a method of making predictions about the interests of a user by collecting preferences from many users.
+
+### Key Skills:
+* Collaborative Filtering using FastAI
